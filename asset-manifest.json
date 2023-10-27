@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tree-game/static/css/main.edb33c22.css",
+    "main.js": "/tree-game/static/js/main.a5ac6989.js",
+    "index.html": "/tree-game/index.html",
+    "main.edb33c22.css.map": "/tree-game/static/css/main.edb33c22.css.map",
+    "main.a5ac6989.js.map": "/tree-game/static/js/main.a5ac6989.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edb33c22.css",
+    "static/js/main.a5ac6989.js"
+  ]
+}
